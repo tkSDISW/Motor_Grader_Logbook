@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 4,
+  "entry_count": 5,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -33,6 +33,14 @@
       "title": "## Fleet/Off-Board Capabilities Added + Fleet Manager Connectivity Gap",
       "tags": [],
       "file_path": "entries/obs-0002-41d267f5772c4079948c1c6cef60f3c6.md"
+    },
+    {
+      "id": "obs-0003-90e4936c4b854b55a1f4ee1fdd512208",
+      "type": "observation",
+      "timestamp": "2026-08-28T02:54:40Z",
+      "title": "## Fleet Manager Connected to Off-Board Capabilities \u2014 Session Wrap-Up",
+      "tags": [],
+      "file_path": "entries/obs-0003-90e4936c4b854b55a1f4ee1fdd512208.md"
     }
   ]
 }
