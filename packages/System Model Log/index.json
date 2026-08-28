@@ -1,0 +1,14 @@
+{
+  "package": "System Model Log",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
+      "type": "note",
+      "timestamp": "2026-08-28T01:58:30Z",
+      "title": "This package tracks activity related to the Motor Grader Capella system model as it's being built \u2014 decisions made",
+      "tags": [],
+      "file_path": "entries/note-0001-20f9a98dd4394c60987a338ebacf290a.md"
+    }
+  ]
+}
