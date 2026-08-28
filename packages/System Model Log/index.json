@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -9,6 +9,14 @@
       "title": "This package tracks activity related to the Motor Grader Capella system model as it's being built \u2014 decisions made",
       "tags": [],
       "file_path": "entries/note-0001-20f9a98dd4394c60987a338ebacf290a.md"
+    },
+    {
+      "id": "obs-0001-c94eb9e80520407e80664b1f1bccd6e6",
+      "type": "observation",
+      "timestamp": "2026-08-28T02:20:09Z",
+      "title": "## CAT 120 Motor Grader \u2014 Operational Capabilities Research",
+      "tags": [],
+      "file_path": "entries/obs-0001-c94eb9e80520407e80664b1f1bccd6e6.md"
     }
   ]
 }
