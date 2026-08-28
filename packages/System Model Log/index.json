@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -17,6 +17,14 @@
       "title": "## CAT 120 Motor Grader \u2014 Operational Capabilities Research",
       "tags": [],
       "file_path": "entries/obs-0001-c94eb9e80520407e80664b1f1bccd6e6.md"
+    },
+    {
+      "id": "dec-0001-54bfe5e3a3b74e4f96f02ca42491b7dd",
+      "type": "decision",
+      "timestamp": "2026-08-28T02:34:38Z",
+      "title": "## Initial OA Layer: Entities, Actors, and Operational Capabilities",
+      "tags": [],
+      "file_path": "entries/dec-0001-54bfe5e3a3b74e4f96f02ca42491b7dd.md"
     }
   ]
 }
