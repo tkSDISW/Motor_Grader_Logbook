@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 3,
+  "entry_count": 4,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -25,6 +25,14 @@
       "title": "## Initial OA Layer: Entities, Actors, and Operational Capabilities",
       "tags": [],
       "file_path": "entries/dec-0001-54bfe5e3a3b74e4f96f02ca42491b7dd.md"
+    },
+    {
+      "id": "obs-0002-41d267f5772c4079948c1c6cef60f3c6",
+      "type": "observation",
+      "timestamp": "2026-08-28T02:49:04Z",
+      "title": "## Fleet/Off-Board Capabilities Added + Fleet Manager Connectivity Gap",
+      "tags": [],
+      "file_path": "entries/obs-0002-41d267f5772c4079948c1c6cef60f3c6.md"
     }
   ]
 }
