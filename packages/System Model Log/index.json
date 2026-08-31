@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 7,
+  "entry_count": 8,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -57,6 +57,14 @@
       "title": "## Naming Review \u2014 Functional Chains, Interactions, Diagrams",
       "tags": [],
       "file_path": "entries/obs-0005-fe8524edf32b42d587e217e11a781b19.md"
+    },
+    {
+      "id": "obs-0006-2773a7797c49402e8bff92d4d8b3dd51",
+      "type": "observation",
+      "timestamp": "2026-08-31T19:18:08Z",
+      "title": "## Interaction 20 Direction Fixed + Full Functional Exchange Naming Cleanup",
+      "tags": [],
+      "file_path": "entries/obs-0006-2773a7797c49402e8bff92d4d8b3dd51.md"
     }
   ]
 }
