@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 6,
+  "entry_count": 7,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -49,6 +49,14 @@
       "title": "## OA Activity Layer \u2014 Current State",
       "tags": [],
       "file_path": "entries/obs-0004-bafa35c04244428c8a3a96f998fa054c.md"
+    },
+    {
+      "id": "obs-0005-fe8524edf32b42d587e217e11a781b19",
+      "type": "observation",
+      "timestamp": "2026-08-31T19:13:42Z",
+      "title": "## Naming Review \u2014 Functional Chains, Interactions, Diagrams",
+      "tags": [],
+      "file_path": "entries/obs-0005-fe8524edf32b42d587e217e11a781b19.md"
     }
   ]
 }
