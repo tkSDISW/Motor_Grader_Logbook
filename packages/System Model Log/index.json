@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 8,
+  "entry_count": 9,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -65,6 +65,14 @@
       "title": "## Interaction 20 Direction Fixed + Full Functional Exchange Naming Cleanup",
       "tags": [],
       "file_path": "entries/obs-0006-2773a7797c49402e8bff92d4d8b3dd51.md"
+    },
+    {
+      "id": "obs-0007-4993767e351c4b81ba2362670a529662",
+      "type": "observation",
+      "timestamp": "2026-08-31T19:24:51Z",
+      "title": "## OPD Coverage Audit \u2014 [OCB] Operational Capabilities",
+      "tags": [],
+      "file_path": "entries/obs-0007-4993767e351c4b81ba2362670a529662.md"
     }
   ]
 }
