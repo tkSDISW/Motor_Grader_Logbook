@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 13,
+  "entry_count": 14,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -105,6 +105,14 @@
       "title": "## Control Direction of Travel \u2014 Full OA Wiring Complete",
       "tags": [],
       "file_path": "entries/obs-0011-3dcc235499274377a15883e0def47c26.md"
+    },
+    {
+      "id": "obs-0012-15499c12866f4297b70a1e3f6d4a86ab",
+      "type": "observation",
+      "timestamp": "2026-09-01T01:36:55Z",
+      "title": "## SA Layer Complete \u2014 Control Direction of Travel Fully Propagated",
+      "tags": [],
+      "file_path": "entries/obs-0012-15499c12866f4297b70a1e3f6d4a86ab.md"
     }
   ]
 }
