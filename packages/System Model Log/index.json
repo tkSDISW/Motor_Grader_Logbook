@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 14,
+  "entry_count": 15,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -113,6 +113,14 @@
       "title": "## SA Layer Complete \u2014 Control Direction of Travel Fully Propagated",
       "tags": [],
       "file_path": "entries/obs-0012-15499c12866f4297b70a1e3f6d4a86ab.md"
+    },
+    {
+      "id": "note-0002-236b0c80e5fa4fd59ad75d41a8fbb624",
+      "type": "note",
+      "timestamp": "2026-09-01T01:42:58Z",
+      "title": "## Session Wrap-Up \u2014 SA Layer Complete, LA Next",
+      "tags": [],
+      "file_path": "entries/note-0002-236b0c80e5fa4fd59ad75d41a8fbb624.md"
     }
   ]
 }
