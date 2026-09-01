@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 15,
+  "entry_count": 16,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -121,6 +121,14 @@
       "title": "## Session Wrap-Up \u2014 SA Layer Complete, LA Next",
       "tags": [],
       "file_path": "entries/note-0002-236b0c80e5fa4fd59ad75d41a8fbb624.md"
+    },
+    {
+      "id": "dec-0002-bd2b6ff6e75b4c76983686f92056dcd8",
+      "type": "decision",
+      "timestamp": "2026-09-01T11:32:31Z",
+      "title": "## LA Layer Started \u2014 Logical Component Decomposition",
+      "tags": [],
+      "file_path": "entries/dec-0002-bd2b6ff6e75b4c76983686f92056dcd8.md"
     }
   ]
 }
