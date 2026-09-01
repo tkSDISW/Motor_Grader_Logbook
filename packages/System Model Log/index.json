@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 18,
+  "entry_count": 19,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -145,6 +145,14 @@
       "title": "## The \"C10\" Saga \u2014 Empty Connection to Fully Named Attachment Actuation Path",
       "tags": [],
       "file_path": "entries/obs-0014-66f0b58ac1f5423194e34c6527c430e8.md"
+    },
+    {
+      "id": "dec-0003-d5b544cffec44017aebe9d6aecbe47f4",
+      "type": "decision",
+      "timestamp": "2026-09-01T15:52:57Z",
+      "title": "## Decision: Adopt PMEI Prefix Convention for Component Exchange Names",
+      "tags": [],
+      "file_path": "entries/dec-0003-d5b544cffec44017aebe9d6aecbe47f4.md"
     }
   ]
 }
