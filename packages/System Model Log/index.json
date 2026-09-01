@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 19,
+  "entry_count": 20,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -153,6 +153,14 @@
       "title": "## Decision: Adopt PMEI Prefix Convention for Component Exchange Names",
       "tags": [],
       "file_path": "entries/dec-0003-d5b544cffec44017aebe9d6aecbe47f4.md"
+    },
+    {
+      "id": "obs-0015-c9d907d4ce5e42de96ed795459971f10",
+      "type": "observation",
+      "timestamp": "2026-09-01T15:55:12Z",
+      "title": "## PMEI Prefix Pass Applied to All Component Exchanges",
+      "tags": [],
+      "file_path": "entries/obs-0015-c9d907d4ce5e42de96ed795459971f10.md"
     }
   ]
 }
