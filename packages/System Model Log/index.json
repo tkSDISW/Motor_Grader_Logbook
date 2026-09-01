@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 16,
+  "entry_count": 17,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -129,6 +129,14 @@
       "title": "## LA Layer Started \u2014 Logical Component Decomposition",
       "tags": [],
       "file_path": "entries/dec-0002-bd2b6ff6e75b4c76983686f92056dcd8.md"
+    },
+    {
+      "id": "obs-0013-b717091d2a4d4b058b447907be03fc98",
+      "type": "observation",
+      "timestamp": "2026-09-01T14:37:58Z",
+      "title": "## Unified \"Operate\" Functional Chain \u2014 Major LA Expansion",
+      "tags": [],
+      "file_path": "entries/obs-0013-b717091d2a4d4b058b447907be03fc98.md"
     }
   ]
 }
