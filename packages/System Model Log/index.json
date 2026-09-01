@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 12,
+  "entry_count": 13,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -97,6 +97,14 @@
       "title": "## SA Layer Pulled \u2014 Component Exchange Naming",
       "tags": [],
       "file_path": "entries/obs-0010-e623262e2bc944f986140dad6227fe1a.md"
+    },
+    {
+      "id": "obs-0011-3dcc235499274377a15883e0def47c26",
+      "type": "observation",
+      "timestamp": "2026-09-01T01:28:34Z",
+      "title": "## Control Direction of Travel \u2014 Full OA Wiring Complete",
+      "tags": [],
+      "file_path": "entries/obs-0011-3dcc235499274377a15883e0def47c26.md"
     }
   ]
 }
