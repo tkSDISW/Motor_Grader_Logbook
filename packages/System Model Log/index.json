@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 22,
+  "entry_count": 23,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -177,6 +177,14 @@
       "title": "## Property Values Brought Forward from OBS-0001 to LA Components",
       "tags": [],
       "file_path": "entries/dec-0004-6dce176ccb36474b8238c13c5898c026.md"
+    },
+    {
+      "id": "note-0003-2f49b345879e48c1ba7b18706f22d327",
+      "type": "purpose",
+      "timestamp": "2026-09-02T01:18:31Z",
+      "title": "Tracks activity related to the Motor Grader Capella system model as it's being built \u2014 decisions, observations, and",
+      "tags": [],
+      "file_path": "entries/note-0003-2f49b345879e48c1ba7b18706f22d327.md"
     }
   ]
 }
