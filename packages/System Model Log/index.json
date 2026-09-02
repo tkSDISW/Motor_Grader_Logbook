@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 25,
+  "entry_count": 26,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -201,6 +201,14 @@
       "title": "## Decision: Adopt \"Essential / Incarnation\" Terminology (McMenamin & Palmer) for LA/PA; P-Diagrams Centered on Node",
       "tags": [],
       "file_path": "entries/dec-0005-efed7ac945bd44ab984069026130387d.md"
+    },
+    {
+      "id": "dec-0006-e4d816a983af46f1b019ccc9ec26aada",
+      "type": "decision",
+      "timestamp": "2026-09-02T14:01:34Z",
+      "title": "## Decision: Rework LA Layer as Essential (Logical) with Current Components Reframed Toward Incarnation (Physical)",
+      "tags": [],
+      "file_path": "entries/dec-0006-e4d816a983af46f1b019ccc9ec26aada.md"
     }
   ]
 }
