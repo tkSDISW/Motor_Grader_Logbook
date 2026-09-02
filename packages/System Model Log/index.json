@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 21,
+  "entry_count": 22,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -169,6 +169,14 @@
       "title": "## PMEI Correction (Grader Operator Physical Controls) + Status Channel Network Named",
       "tags": [],
       "file_path": "entries/obs-0016-6dc123d304ae4161909fff0996c12322.md"
+    },
+    {
+      "id": "dec-0004-6dce176ccb36474b8238c13c5898c026",
+      "type": "decision",
+      "timestamp": "2026-09-02T01:15:00Z",
+      "title": "## Property Values Brought Forward from OBS-0001 to LA Components",
+      "tags": [],
+      "file_path": "entries/dec-0004-6dce176ccb36474b8238c13c5898c026.md"
     }
   ]
 }
