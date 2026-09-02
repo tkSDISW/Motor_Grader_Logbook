@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 26,
+  "entry_count": 27,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -209,6 +209,14 @@
       "title": "## Decision: Rework LA Layer as Essential (Logical) with Current Components Reframed Toward Incarnation (Physical)",
       "tags": [],
       "file_path": "entries/dec-0006-e4d816a983af46f1b019ccc9ec26aada.md"
+    },
+    {
+      "id": "obs-0017-5bab9837d36c493eb8f7406534e9351b",
+      "type": "observation",
+      "timestamp": "2026-09-02T18:22:37Z",
+      "title": "## LA Rework Progress, SysML Diagram Test, and I_19 Integrity Fixes",
+      "tags": [],
+      "file_path": "entries/obs-0017-5bab9837d36c493eb8f7406534e9351b.md"
     }
   ]
 }
