@@ -1,0 +1,14 @@
+{
+  "package": "candidate requirements",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "note-0001-940c972d63c140c487a8bd6c36da9004",
+      "type": "note",
+      "timestamp": "2026-09-02T10:04:14Z",
+      "title": "## note_configuration \u2014 Requirement Subtype Schema (seeded from knowledge_partner/requirements)",
+      "tags": [],
+      "file_path": "entries/note-0001-940c972d63c140c487a8bd6c36da9004.md"
+    }
+  ]
+}
