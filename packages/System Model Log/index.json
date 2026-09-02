@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 23,
+  "entry_count": 24,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -185,6 +185,14 @@
       "title": "Tracks activity related to the Motor Grader Capella system model as it's being built \u2014 decisions, observations, and",
       "tags": [],
       "file_path": "entries/note-0003-2f49b345879e48c1ba7b18706f22d327.md"
+    },
+    {
+      "id": "nbcfg-0001-a634f8173b484d399874cd132c8e9b41",
+      "type": "notebook_config",
+      "timestamp": "2026-09-02T01:19:42Z",
+      "title": "vibe: front_porch",
+      "tags": [],
+      "file_path": "entries/nbcfg-0001-a634f8173b484d399874cd132c8e9b41.md"
     }
   ]
 }
