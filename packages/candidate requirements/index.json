@@ -1,6 +1,6 @@
 {
   "package": "candidate requirements",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-940c972d63c140c487a8bd6c36da9004",
@@ -9,6 +9,14 @@
       "title": "## note_configuration \u2014 Requirement Subtype Schema (seeded from knowledge_partner/requirements)",
       "tags": [],
       "file_path": "entries/note-0001-940c972d63c140c487a8bd6c36da9004.md"
+    },
+    {
+      "id": "note-0002-2f025e30cd2c411d8e322f152f11740f",
+      "type": "note",
+      "timestamp": "2026-09-02T10:04:29Z",
+      "title": "## Scope Statement \u2014 Why This Package Exists",
+      "tags": [],
+      "file_path": "entries/note-0002-2f025e30cd2c411d8e322f152f11740f.md"
     }
   ]
 }
