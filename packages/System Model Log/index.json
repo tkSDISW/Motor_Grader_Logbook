@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 30,
+  "entry_count": 31,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -241,6 +241,14 @@
       "title": "## Decision: PA Layer Stays Flat \u2014 No L5 Hierarchy Mirrored from LA/Essential",
       "tags": [],
       "file_path": "entries/dec-0007-44941cfc8dcb4381b2cff9cbf93e5262.md"
+    },
+    {
+      "id": "dec-0008-7f9de30557314578b8bac67184ebdcfb",
+      "type": "decision",
+      "timestamp": "2026-09-03T01:56:15Z",
+      "title": "## Refinement to dec-0007: PA Diagrams Named by L5/Essential Grouping, Not Just Physical Category",
+      "tags": [],
+      "file_path": "entries/dec-0008-7f9de30557314578b8bac67184ebdcfb.md"
     }
   ]
 }
