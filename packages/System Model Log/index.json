@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 31,
+  "entry_count": 32,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -249,6 +249,14 @@
       "title": "## Refinement to dec-0007: PA Diagrams Named by L5/Essential Grouping, Not Just Physical Category",
       "tags": [],
       "file_path": "entries/dec-0008-7f9de30557314578b8bac67184ebdcfb.md"
+    },
+    {
+      "id": "dec-0009-7f29bb347c6b47ab88f0910e77f04e26",
+      "type": "decision",
+      "timestamp": "2026-09-29T16:06:48Z",
+      "title": "**Model actively in use has switched to the MBSE evaluation environment known as \"Pebbles.\"**",
+      "tags": [],
+      "file_path": "entries/dec-0009-7f29bb347c6b47ab88f0910e77f04e26.md"
     }
   ]
 }
