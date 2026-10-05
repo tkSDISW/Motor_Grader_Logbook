@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 40,
+  "entry_count": 41,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -321,6 +321,14 @@
       "title": "**Jobsite SoS model: work moved ahead into Logical Architecture (LA); LA is the anchor for requirements.**",
       "tags": [],
       "file_path": "entries/dec-0013-cae8838507e1497ab61cb49b24a8f480.md"
+    },
+    {
+      "id": "dec-0014-86b56f8133444430a3c35a867b7dd1cb",
+      "type": "decision",
+      "timestamp": "2026-10-05T16:56:46Z",
+      "title": "**Jobsite SoS model, LA: 7 equipment types modeled as components under Jobsite; remaining equipment to be captured as",
+      "tags": [],
+      "file_path": "entries/dec-0014-86b56f8133444430a3c35a867b7dd1cb.md"
     }
   ]
 }
