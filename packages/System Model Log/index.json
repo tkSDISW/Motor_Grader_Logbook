@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 33,
+  "entry_count": 34,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -265,6 +265,14 @@
       "title": "**New \"heavy equipment jobsite\" Capella model will be a higher-level system-of-systems (SoS) model.**",
       "tags": [],
       "file_path": "entries/dec-0010-eab696b886da4ea08e8ff63ea1a0fce8.md"
+    },
+    {
+      "id": "obs-0020-92070dbe926b4a0d93e8214743edaaf6",
+      "type": "observation",
+      "timestamp": "2026-10-05T16:09:20Z",
+      "title": "**Jobsite SoS model: starting with OA; scenario is a European highway/road construction site, driven by a regional",
+      "tags": [],
+      "file_path": "entries/obs-0020-92070dbe926b4a0d93e8214743edaaf6.md"
     }
   ]
 }
