@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 39,
+  "entry_count": 40,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -313,6 +313,14 @@
       "title": "**For Cousin: the base type of OA entities/actors was not discoverable through capella-fabric.** Companion to",
       "tags": [],
       "file_path": "entries/obs-0022-b6540e6a0dec42fca66af0bec8a3bf08.md"
+    },
+    {
+      "id": "dec-0013-cae8838507e1497ab61cb49b24a8f480",
+      "type": "decision",
+      "timestamp": "2026-10-05T16:46:51Z",
+      "title": "**Jobsite SoS model: work moved ahead into Logical Architecture (LA); LA is the anchor for requirements.**",
+      "tags": [],
+      "file_path": "entries/dec-0013-cae8838507e1497ab61cb49b24a8f480.md"
     }
   ]
 }
