@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 37,
+  "entry_count": 38,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -297,6 +297,14 @@
       "title": "**Jobsite SoS model, OA: descriptions added to 7 elements that had none.** Model commit `b212d2da` (local at time of",
       "tags": [],
       "file_path": "entries/dec-0012-2c6d983592ff4ee395a77e249cd4d5e5.md"
+    },
+    {
+      "id": "lesson-0001-69a68b9a1ae24e8595bdd20f76d02c3e",
+      "type": "lesson_learned",
+      "timestamp": "2026-10-05T16:33:09Z",
+      "title": "**Actors and entities in OA: changing between them changes the element's UUID. Flag for the Member Handbook (for Cousin",
+      "tags": [],
+      "file_path": "entries/lesson-0001-69a68b9a1ae24e8595bdd20f76d02c3e.md"
     }
   ]
 }
