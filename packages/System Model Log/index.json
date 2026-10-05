@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 32,
+  "entry_count": 33,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -257,6 +257,14 @@
       "title": "**Model actively in use has switched to the MBSE evaluation environment known as \"Pebbles.\"**",
       "tags": [],
       "file_path": "entries/dec-0009-7f29bb347c6b47ab88f0910e77f04e26.md"
+    },
+    {
+      "id": "dec-0010-eab696b886da4ea08e8ff63ea1a0fce8",
+      "type": "decision",
+      "timestamp": "2026-10-05T16:05:24Z",
+      "title": "**New \"heavy equipment jobsite\" Capella model will be a higher-level system-of-systems (SoS) model.**",
+      "tags": [],
+      "file_path": "entries/dec-0010-eab696b886da4ea08e8ff63ea1a0fce8.md"
     }
   ]
 }
