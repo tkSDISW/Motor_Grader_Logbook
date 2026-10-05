@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 35,
+  "entry_count": 36,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -281,6 +281,14 @@
       "title": "**Jobsite SoS model, OA: stakeholders modeled as 2 actors + 6 entities under Operational Entities.**",
       "tags": [],
       "file_path": "entries/dec-0011-d9527c0a00c9444ebcd37d4036d0909c.md"
+    },
+    {
+      "id": "obs-0021-a4af7242cb11427381cf40f7f0d5ba39",
+      "type": "observation",
+      "timestamp": "2026-10-05T16:30:27Z",
+      "title": "**Jobsite SoS model, OA: engineer added the Motor Grader entity, 4 operational capabilities and an [OCB] diagram in",
+      "tags": [],
+      "file_path": "entries/obs-0021-a4af7242cb11427381cf40f7f0d5ba39.md"
     }
   ]
 }
