@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 34,
+  "entry_count": 35,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -273,6 +273,14 @@
       "title": "**Jobsite SoS model: starting with OA; scenario is a European highway/road construction site, driven by a regional",
       "tags": [],
       "file_path": "entries/obs-0020-92070dbe926b4a0d93e8214743edaaf6.md"
+    },
+    {
+      "id": "dec-0011-d9527c0a00c9444ebcd37d4036d0909c",
+      "type": "decision",
+      "timestamp": "2026-10-05T16:19:12Z",
+      "title": "**Jobsite SoS model, OA: stakeholders modeled as 2 actors + 6 entities under Operational Entities.**",
+      "tags": [],
+      "file_path": "entries/dec-0011-d9527c0a00c9444ebcd37d4036d0909c.md"
     }
   ]
 }
