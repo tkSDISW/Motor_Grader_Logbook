@@ -1,6 +1,6 @@
 {
   "package": "System Model Log",
-  "entry_count": 36,
+  "entry_count": 37,
   "entries": [
     {
       "id": "note-0001-20f9a98dd4394c60987a338ebacf290a",
@@ -289,6 +289,14 @@
       "title": "**Jobsite SoS model, OA: engineer added the Motor Grader entity, 4 operational capabilities and an [OCB] diagram in",
       "tags": [],
       "file_path": "entries/obs-0021-a4af7242cb11427381cf40f7f0d5ba39.md"
+    },
+    {
+      "id": "dec-0012-2c6d983592ff4ee395a77e249cd4d5e5",
+      "type": "decision",
+      "timestamp": "2026-10-05T16:33:02Z",
+      "title": "**Jobsite SoS model, OA: descriptions added to 7 elements that had none.** Model commit `b212d2da` (local at time of",
+      "tags": [],
+      "file_path": "entries/dec-0012-2c6d983592ff4ee395a77e249cd4d5e5.md"
     }
   ]
 }
